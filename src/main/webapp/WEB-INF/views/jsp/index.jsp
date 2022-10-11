@@ -41,7 +41,7 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>KARTHIKEYAN PROJECT</h2>
-			<h3>Contact @ +91-9597361516 </h3>
+			<h3>Contact @ +91-9566633138 </h3>
 		</div>	
 	</div>
 
